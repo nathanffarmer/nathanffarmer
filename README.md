@@ -1,7 +1,7 @@
-- 👋 Hi, I’m @nathanffarmer
-- 👀 I’m interested in ...
-- 🌱 I’m currently learning ...
-- 💞️ I’m looking to collaborate on ...
+- 👋 Hi, I’m Nathan Farmer.
+<!--- - 👀 I’m interested in ... --->
+- 🌱 I’m currently learning React and Flask.
+<!--- - 💞️ I’m looking to collaborate on ... --->
 - 📫 How to reach me: nathanffarmer@gmail.com
 
 <!---
